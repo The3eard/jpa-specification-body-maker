@@ -1,6 +1,6 @@
-import { JpaFilter } from './interfaces/jpa-filter';
-import { JpaSort } from './interfaces/jpa-sort';
-import { SearchRequest } from './interfaces/search-request';
+import {JpaFilter} from './jpa-filter';
+import {JpaSort} from './jpa-sort';
+import {SearchRequest} from './search-request';
 
 export class SearchRequestService  {
 

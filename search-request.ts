@@ -1,5 +1,5 @@
-import { JpaFilter } from './jpa-filter';
-import { JpaSort } from './jpa-sort';
+import {JpaFilter} from './jpa-filter';
+import {JpaSort} from './jpa-sort';
 
 export interface SearchRequest {
   filters: JpaFilter[];
