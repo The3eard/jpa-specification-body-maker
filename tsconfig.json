@@ -1,0 +1,16 @@
+{
+     "compilerOptions": {
+          "target": "es5",
+          "module": "commonjs",
+          "declaration": true,
+          "outDir": "./lib",
+          "strict": true,
+          "lib": ["es2021"]
+     },
+     "include": [
+          "src"
+, "interfaces"     ],
+     "exclude": [
+          "node_modules",
+     ]
+}
