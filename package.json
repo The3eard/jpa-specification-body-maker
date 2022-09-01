@@ -1,6 +1,6 @@
 {
   "name": "jpa-specification-body-maker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create filter objects for use with JPA specifications",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
