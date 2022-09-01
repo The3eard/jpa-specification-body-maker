@@ -8,3 +8,6 @@ Fix package.json and tsconfig.json
 
 ### 1.0.0
 First publish
+
+## NPM package
+https://www.npmjs.com/package/jpa-specification-body-maker
